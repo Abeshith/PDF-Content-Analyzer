@@ -1,5 +1,5 @@
 # PDF Information Extractor and Search 📄  
-Click here for the app: 
+**Click here for the app:** [Chat With PDF Application](https://chat-with-pdf-abe.streamlit.app/)
 
 This Streamlit application allows users to upload a PDF, extract its text, and search for specific information within it using FAISS and Sentence Transformers for efficient similarity search.
 
