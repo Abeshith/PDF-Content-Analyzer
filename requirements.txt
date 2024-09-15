@@ -1,9 +1,5 @@
 streamlit
-streamlit_option_menu
-tensorflow
+PyPDF2
+sentence-transformers
+faiss-cpu
 numpy
-pandas
-plotly
-scikit-learn
-joblib
-yfinance
