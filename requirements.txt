@@ -1,0 +1,9 @@
+streamlit
+streamlit_option_menu
+tensorflow
+numpy
+pandas
+plotly
+scikit-learn
+joblib
+yfinance
